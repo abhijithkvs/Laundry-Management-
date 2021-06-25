@@ -1,7 +1,7 @@
 # Laundry-Management-
 
 This is Basic Laundry Management System which allows the user to register and then login to the site with correct credentials to give a laundry request to the management.
-->Laundry management can look into the total registered customers and aslo can delete a user which is no more a user.
+->Laundry management can look into the total registered customers and aslo can delete a user who are no more a user.
 ->They also can look into the total laundry request recieved and can delete the request once it is fullfilled.
 
 
